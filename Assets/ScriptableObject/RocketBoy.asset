@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8771e1fbc6b3294fa5b835a59d646be, type: 3}
+  m_Name: RocketBoy
+  m_EditorClassIdentifier: 
+  name: Rocket Boy
+  index: 0
+  prefab: {fileID: 6436573550865133230, guid: b2e832725119c9e44b6f6ff306faa996, type: 3}
+  isPurchased: 1
+  price: 0
+  sprite: {fileID: 21300054, guid: 03b45adc419bc5344b3458f032eebef6, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8771e1fbc6b3294fa5b835a59d646be, type: 3}
+  m_Name: ShotgunBoy
+  m_EditorClassIdentifier: 
+  name: Shotgun Boy
+  index: 1
+  prefab: {fileID: 6436573550865133230, guid: 212ab9431b049734480e63d6533ae364, type: 3}
+  isPurchased: 0
+  price: 10
+  sprite: {fileID: 21300064, guid: bfdef359a837cb5448da11d5d6a6cb04, type: 3}
